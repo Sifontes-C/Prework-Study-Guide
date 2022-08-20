@@ -1,2 +1,2 @@
-# prework_study-guide
+# prework-study-guide
 Study Guide material
